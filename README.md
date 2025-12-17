@@ -43,3 +43,7 @@ cd web-compose
 
 # Subir a aplicação
 docker compose up -d --build
+
+# A Aplicação ficará disponível em:
+http://localhost:3000
+
